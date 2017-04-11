@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KlarDent</string>
+    <string name="email">office@klardent.ro</string>
+    <string name="address">Dr. Taberii, 50, Bucharest</string>
+    <string name="phone">0720000000</string>
+    <string name="programme">M-F, 10.00-19.00</string>
+    <string name="name">KLARDENT</string>
+    <string name="slogan">Caring for you and your smile!</string>
+</resources>
